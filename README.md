@@ -8,6 +8,11 @@ The project is based on a fictional multi-specialty healthcare clinic, **Green V
 
 ---
 
+## Future-State Business Process
+<img width="1616" height="984" alt="Process Map drawio" src="https://github.com/user-attachments/assets/0d3ce08d-3933-49c8-b6f5-4007f83a26b3" />
+
+---
+
 ## Business Problem
 
 Green Valley Medical Center currently relies on fragmented systems and manual processes to manage patient information, appointments, payments, medical records, laboratory requests, and operational reporting.
