@@ -1,5 +1,25 @@
 # 🏥 Healthcare Business Analysis Portfolio
 
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Portfolio-success)
+
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
+
+---
+
+## Current Progress
+
+✔ Phase 1 – Completed
+
+✔ Phase 2 – In Progress
+
+⬜ Phase 3 – Planned
+
+⬜ Phase 4 – Planned
+
+---
+
 ## Overview
 
 This repository contains an end-to-end Business Analysis portfolio project developed to demonstrate business analysis practices within a healthcare environment.
