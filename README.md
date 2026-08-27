@@ -1,10 +1,12 @@
 # 🏥 Healthcare Business Analysis Portfolio
+End-to-End Business Analysis Portfolio Project
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
 ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Portfolio-success)
 
 ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
+
 
 ---
 
@@ -30,6 +32,23 @@ The project is based on a fictional multi-specialty healthcare clinic, **Green V
 
 ## Future-State Business Process
 <img width="1616" height="984" alt="Process Map drawio" src="https://github.com/user-attachments/assets/0d3ce08d-3933-49c8-b6f5-4007f83a26b3" />
+
+---
+
+## Documentation
+
+The project documentation is organized according to the Business Analysis lifecycle and includes:
+
+- Business Case
+- Project Charter
+- Stakeholder Register
+- Current State Analysis
+- Stakeholder Interviews
+- Requirements Elicitation
+- Gap Analysis
+- Future State Analysis
+- Business Process Maps
+- Business Requirements Document
 
 ---
 
