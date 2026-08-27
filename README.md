@@ -31,7 +31,7 @@ The project is based on a fictional multi-specialty healthcare clinic, **Green V
 ---
 
 ## Future-State Business Process
-<img width="1616" height="984" alt="Process Map drawio" src="https://github.com/user-attachments/assets/0d3ce08d-3933-49c8-b6f5-4007f83a26b3" />
+<img width="808" height="492" alt="Process Map drawio (1)" src="https://github.com/user-attachments/assets/a23ebcc8-58a1-4a50-8f59-56cddab0cc88" />
 
 ---
 
